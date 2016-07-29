@@ -1,0 +1,16 @@
+Running solution...
+
+Compilation successful.
+
+Your test case:  [1041] 
+Returned value: 5 
+
+Example test:    1041 
+OK 
+
+Example test:    15 
+OK 
+
+Your code is syntactically correct and works properly on the example test.
+Note that the example tests are not part of your score. On submission at least 8 test cases not shown here will assess your solution.
+
